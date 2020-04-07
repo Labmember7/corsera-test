@@ -20,7 +20,9 @@
     margin-bottom: 10px;
   }
   .section-title {
-    border: 1px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+
     width: 33%;
     float:right;
     text-align: center;
